@@ -16,14 +16,9 @@
     <script src="~/Scripts/jquery.min.js"></script>
     <script src="~/Scripts/CustomBootstrap.js"></script>
     <link rel="stylesheet" href="~/Scripts/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/contact.css">
 
-    <script type="text/javascript">
-        function displayResult() {
-            document.getElementById("myTable").insertRow(-1).innerHTML = '<td>Producto</td><td>Stock</td><td>Descripción</td><td>Cantidad</td><td>Precio Total</td>';
-        }
-    </script>
-
-
+    <script src="~/Scripts/tablaGestion.js"></script>
 
 </head>
 <body>
@@ -43,20 +38,25 @@
                         <h4 class="modal-title">Añadir nuevo pedido</h4>
                     </div>
                     <div class="modal-body">
-                        <table id="myTable" border="1">
-                            <tr>
-                                <td>Producto</td>
-                                <td>Stock</td>
-                                <td>Descripción</td>
-                                <td>Cantidad</td>
-                                <td>Precio Total</td>
-                            </tr>
-                        </table>
+                        <div class="table-container">
+                            <table id="table1">
+                                <thead id="table-head">
+                                    <tr>
+                                        <th>Producto</th>
+                                        <th>Stock</th>
+                                        <th>Descripcion</th>
+                                        <th>Cantidad</th>
+                                        <th>Precio Total</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
                         <br />
                         <button type="button" onclick="displayResult()">Insert new row</button>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar pedido</button>
+                        <button type="button" onclick="borrarTabla()" class="btn btn-default">Borrar pedido</button>
                         <button type="button" class="btn btn-default" data-dismiss="modal">Confirmar pedido</button>   
                     </div>
                 </div>
