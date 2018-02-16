@@ -16,3 +16,9 @@ C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Entid
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Entidades\obj\Debug\Entidades.dll
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Entidades\bin\Debug\Entidades.dll
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Entidades\obj\Debug\Entidades.dll
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Entidades\obj\Debug\Entidades.pdb

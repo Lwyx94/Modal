@@ -28,3 +28,13 @@ C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Web-A
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Web-API-BL\obj\Debug\Web-API-BL.csproj.CoreCompileInputs.cache
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Web-API-BL\obj\Debug\Web-API-BL.dll
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Modal\Web-API-BL\obj\Debug\Web-API-BL.pdb
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\bin\Debug\Web-API-BL.dll
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\bin\Debug\Web-API-BL.pdb
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\bin\Debug\Entidades.dll
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\bin\Debug\Web-API-DAL.dll
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\bin\Debug\Entidades.pdb
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\bin\Debug\Web-API-DAL.pdb
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\obj\Debug\Web-API-BL.csprojResolveAssemblyReference.cache
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\obj\Debug\Web-API-BL.csproj.CoreCompileInputs.cache
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\obj\Debug\Web-API-BL.dll
+C:\Users\lgutierrez\Documents\GitHub\Modal\Modal\Web-API-BL\obj\Debug\Web-API-BL.pdb
